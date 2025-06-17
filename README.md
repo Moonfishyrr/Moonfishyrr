@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Moonfishyrr
-- 👀 I’m interested in 3D design and programming
-- 🌱 I’m currently learning python and some other adobe programs
-- 💞️ I’m looking to collaborate on "IDK"
+- 👋 Hi, I’m CreativeDude
+- 🔥 I'm a web3 content creator
+- 👀 I’m interested in DeFi and blockchains
+- 🌱 I’m a pro video editor
 - 📫 How to reach me habibboulila22@gmail.com
 
 <!---
